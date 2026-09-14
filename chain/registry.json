@@ -15,6 +15,10 @@
     "address": "rofl1qhu2r7ghewxnxgkruvrx94udl3nduj2a5u3w2my",
     "pubkey": "029936d0cc7b69a5e4d77f697b1e75621cd910b0d67e52070f40af4382c4b18392"
   },
+  "differs": {
+    "address": "rofl1qvkhtn7xu75jn5d887zh94kxkpk3fhs3wpajtua",
+    "pubkey": "0254dfaf4f52b989eac328349e7c7490cd1a857dc6964fcdddf00af7a569ce0d17"
+  },
   "eltociear": {
     "address": "rofl1qdsfz9v9r2hc798k26egt33zxj8ysg4cgwgcw2z",
     "pubkey": "024bfa745b6b3ef528ec8c24df4e9b9df7ed1e931b611f44ff011d506e7f86f9de"
