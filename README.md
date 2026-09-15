@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://ram0verflow.github.io/ram0verflow/"><b>Block explorer</b></a> ·
   <a href="SPEC.md"><b>Consensus spec</b></a> ·
-  <a href="../../issues/4078"><b>Mine a block</b></a> ·
+  <a href="../../issues/5178"><b>Mine a block</b></a> ·
   <a href="../../issues/1702"><b>Send coins</b></a> ·
   <a href="../../actions"><b>Node</b></a>
 </p>
@@ -151,7 +151,7 @@ python3 miner.py --miner YOUR_GITHUB_HANDLE --message "gm"
 
 It solves puzzles until the block is complete, then prints a line starting
 with `rofl-block-v1:`. Paste that as a comment on
-**[the block issue](../../issues/4078)**. A workflow validates it and, if it
+**[the block issue](../../issues/5178)**. A workflow validates it and, if it
 holds up, appends it to the chain and updates this page.
 
 About half a minute at the starting difficulty. If the chain gets busy,
