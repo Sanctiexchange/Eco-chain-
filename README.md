@@ -17,24 +17,25 @@
 
 <!-- ROFL:BEGIN -->
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ledger-dark.svg?v=2737"><img src="assets/ledger-light.svg?v=2737" width="100%" alt="ROFL ledger, height 2737"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ledger-dark.svg?v=2738"><img src="assets/ledger-light.svg?v=2738" width="100%" alt="ROFL ledger, height 2738"></picture>
 
 | | |
 |---|---|
-| **height** | `2737` |
-| **tip** | `25e51f0c7a373f806b22a0e4f227e808a61bc97aad9689c4708b6efdabec5cf6` |
+| **height** | `2738` |
+| **tip** | `195618a51f2a76f392167cd8d58999b2d9e95d0e63561cbe7d18a48de9bd2371` |
 | **difficulty** | `2,206.1`  (bits `0x1d01db4e`) |
-| **chainwork** | `3,862,535,174,013,960,724,158,737,811,002,957,870,368,192,156,778,394` expected hashes |
-| **supply** | `20997.48534968 ROFL` in `2738` unspent outputs |
+| **chainwork** | `3,862,535,174,013,960,724,158,737,811,002,957,870,368,194,470,055,869` expected hashes |
+| **supply** | `20997.49145319 ROFL` in `2739` unspent outputs |
 | **next reward** | `0.00610351 ROFL` |
-| **next retarget** | in `14` block(s) |
-| **next halving** | in `202` block(s) |
-| **transactions** | `2740` |
+| **next retarget** | in `13` block(s) |
+| **next halving** | in `201` block(s) |
+| **transactions** | `2741` |
 
 ### Recent blocks
 
 | # | hash | miner | message | txs | reward | mined |
 |--:|---|---|---|--:|--:|---|
+| `2738` | `195618a51f2a76f39216…` | [@b81913221-ai](https://github.com/b81913221-ai) | `gm` | `1` | `0.00610351` | 2026-09-17 04:12 UTC |
 | `2737` | `25e51f0c7a373f806b22…` | [@hbzhong](https://github.com/hbzhong) | `看似在等，其实已经偷偷写下一题。` | `1` | `0.00610351` | 2026-09-17 04:03 UTC |
 | `2736` | `f4caf8c2ed05a1335a2d…` | [@ywltby](https://github.com/ywltby) | `康神开播了？` | `1` | `0.00610351` | 2026-09-17 03:38 UTC |
 | `2735` | `bef264612f281969d431…` | [@hbzhong](https://github.com/hbzhong) | `这块地我先犁了，谁也别抢萝卜。` | `1` | `0.00610351` | 2026-09-17 03:37 UTC |
@@ -44,13 +45,12 @@
 | `2731` | `19f82ce958409fd123fa…` | [@ywltby](https://github.com/ywltby) | `不要小瞧EDG所有人的羁绊啊。` | `1` | `0.00610351` | 2026-09-17 02:42 UTC |
 | `2730` | `d5e1dee766560ebeb098…` | [@ywltby](https://github.com/ywltby) | `真的假的？` | `1` | `0.00610351` | 2026-09-17 02:35 UTC |
 | `2729` | `1c5c72c948b5f6d876ef…` | [@ywltby](https://github.com/ywltby) | `都是同龄人，我原本没想降维打击。` | `1` | `0.01220703` | 2026-09-17 02:23 UTC |
-| `2728` | `fa5a76a0dc4040ab271c…` | [@ywltby](https://github.com/ywltby) | `现在拿了世界冠军还在骂我，那拿了世界冠军有什么用呢？` | `1` | `0.01220703` | 2026-09-17 02:16 UTC |
 
 ### Miners
 
 | miner | blocks | share |
 |---|--:|--:|
-| [@ywltby](https://github.com/ywltby) | `1042` | `38.1%` |
+| [@ywltby](https://github.com/ywltby) | `1042` | `38.0%` |
 | [@ksanjeev284](https://github.com/ksanjeev284) | `488` | `17.8%` |
 | [@americanvain](https://github.com/americanvain) | `315` | `11.5%` |
 | [@sd5884703](https://github.com/sd5884703) | `149` | `5.4%` |
@@ -96,7 +96,7 @@ _Find your own name here once you have run `python3 wallet.py identity`._
 | [@hbzhong](https://github.com/hbzhong) | `rofl1q722t3c2emfk7utwz4y09xwxs0670kknthwuler` | `1.91650370 ROFL` |
 | _unclaimed_ | `rofl1qyk9qfjwgth2dfazpx9msskj3sswln76x0x9hqa` | `0.70190426 ROFL` |
 | [@bg6qcn](https://github.com/bg6qcn) | `rofl1qvz2auqlgxzgrhhx4x5q6cwrw3723699y6f2a7z` | `0.04882812 ROFL` |
-| _unclaimed_ | `rofl1qyj5rcsu0wazjesvrve9utmvty4t8p0n9ulsd2f` | `0.00610351 ROFL` |
+| _unclaimed_ | `rofl1qyj5rcsu0wazjesvrve9utmvty4t8p0n9ulsd2f` | `0.01220702 ROFL` |
 
 ### Recent transfers
 
@@ -105,7 +105,7 @@ _Find your own name here once you have run `python3 wallet.py identity`._
 | `1729` | [@iamgd67](https://github.com/iamgd67) | [@ywltby](https://github.com/ywltby) | `0.01000000` | gm |
 | `11` | `rofl1qhkhmy848s0…` | `rofl1q3jwm3gz2s9…` | `100.00000000` | gm @notram0verflow |
 
-<sub>Rendered from `chain/blocks.jsonl` at height 2737. Verify it yourself: <code>python3 verify.py</code></sub>
+<sub>Rendered from `chain/blocks.jsonl` at height 2738. Verify it yourself: <code>python3 verify.py</code></sub>
 
 <!-- ROFL:END -->
 
