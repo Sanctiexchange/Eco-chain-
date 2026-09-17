@@ -17,24 +17,25 @@
 
 <!-- ROFL:BEGIN -->
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ledger-dark.svg?v=2834"><img src="assets/ledger-light.svg?v=2834" width="100%" alt="ROFL ledger, height 2834"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ledger-dark.svg?v=2835"><img src="assets/ledger-light.svg?v=2835" width="100%" alt="ROFL ledger, height 2835"></picture>
 
 | | |
 |---|---|
-| **height** | `2834` |
-| **tip** | `b48df4b643f07d5e885cfc1b2459c00bb154774eccd2c0c1b75526171b999338` |
+| **height** | `2835` |
+| **tip** | `d254123c2cb259e2240ba7a669a1b7f9602890c14951ed3a5662ad551349ef93` |
 | **difficulty** | `1,369.7`  (bits `0x1d02fd87`) |
-| **chainwork** | `3,862,535,174,013,960,724,158,737,811,002,957,870,368,390,597,033,050` expected hashes |
-| **supply** | `20998.07739015 ROFL` in `2835` unspent outputs |
+| **chainwork** | `3,862,535,174,013,960,724,158,737,811,002,957,870,368,392,033,313,068` expected hashes |
+| **supply** | `20998.08349366 ROFL` in `2836` unspent outputs |
 | **next reward** | `0.00610351 ROFL` |
-| **next retarget** | in `13` block(s) |
-| **next halving** | in `105` block(s) |
-| **transactions** | `2837` |
+| **next retarget** | in `12` block(s) |
+| **next halving** | in `104` block(s) |
+| **transactions** | `2838` |
 
 ### Recent blocks
 
 | # | hash | miner | message | txs | reward | mined |
 |--:|---|---|---|--:|--:|---|
+| `2835` | `d254123c2cb259e2240b…` | [@yhye994](https://github.com/yhye994) | `gm from RTX3070` | `1` | `0.00610351` | 2026-09-17 21:52 UTC |
 | `2834` | `b48df4b643f07d5e885c…` | [@ywltby](https://github.com/ywltby) | `都是同龄人，我原本没想降维打击。` | `1` | `0.00610351` | 2026-09-17 21:31 UTC |
 | `2833` | `599ed152e92acd218a68…` | [@ywltby](https://github.com/ywltby) | `都是同龄人，我原本没想降维打击。` | `1` | `0.00610351` | 2026-09-17 21:21 UTC |
 | `2832` | `f7a1460cd9489f63a9cf…` | [@hbzhong](https://github.com/hbzhong) | `看见打折先别冲，先看看买的啥。` | `1` | `0.00610351` | 2026-09-17 21:20 UTC |
@@ -44,13 +45,12 @@
 | `2828` | `78b7fe5519699d1b8544…` | [@ywltby](https://github.com/ywltby) | `康神开播了？` | `1` | `0.00610351` | 2026-09-17 20:19 UTC |
 | `2827` | `97d8892be4794139b3f5…` | [@hbzhong](https://github.com/hbzhong) | `好生意会挣钱，好段子只管逗你。` | `1` | `0.00610351` | 2026-09-17 20:18 UTC |
 | `2826` | `51b4eee37efc6b227242…` | [@yhye994](https://github.com/yhye994) | `gm from RTX3070` | `1` | `0.00610351` | 2026-09-17 20:08 UTC |
-| `2825` | `64b8cfe8b3f740516445…` | [@ywltby](https://github.com/ywltby) | `VCTCN，你们的王回来了！` | `1` | `0.00610351` | 2026-09-17 19:47 UTC |
 
 ### Miners
 
 | miner | blocks | share |
 |---|--:|--:|
-| [@ywltby](https://github.com/ywltby) | `1096` | `38.7%` |
+| [@ywltby](https://github.com/ywltby) | `1096` | `38.6%` |
 | [@ksanjeev284](https://github.com/ksanjeev284) | `488` | `17.2%` |
 | [@americanvain](https://github.com/americanvain) | `315` | `11.1%` |
 | [@sd5884703](https://github.com/sd5884703) | `151` | `5.3%` |
@@ -98,7 +98,7 @@ _Find your own name here once you have run `python3 wallet.py identity`._
 | _unclaimed_ | `rofl1qyj5rcsu0wazjesvrve9utmvty4t8p0n9ulsd2f` | `0.08544914 ROFL` |
 | [@bg6qcn](https://github.com/bg6qcn) | `rofl1qvz2auqlgxzgrhhx4x5q6cwrw3723699y6f2a7z` | `0.04882812 ROFL` |
 | [@githubskylh](https://github.com/githubskylh) | `rofl1q4vdjjqjdeay87dmjmqu0hewv578k9uwkcf8qjf` | `0.01831053 ROFL` |
-| _unclaimed_ | `rofl1q4mmpdyvcsg54838jppvdm4plzpvt4kw9vqlprm` | `0.00610351 ROFL` |
+| _unclaimed_ | `rofl1q4mmpdyvcsg54838jppvdm4plzpvt4kw9vqlprm` | `0.01220702 ROFL` |
 
 ### Recent transfers
 
@@ -107,7 +107,7 @@ _Find your own name here once you have run `python3 wallet.py identity`._
 | `1729` | [@iamgd67](https://github.com/iamgd67) | [@ywltby](https://github.com/ywltby) | `0.01000000` | gm |
 | `11` | `rofl1qhkhmy848s0…` | `rofl1q3jwm3gz2s9…` | `100.00000000` | gm @notram0verflow |
 
-<sub>Rendered from `chain/blocks.jsonl` at height 2834. Verify it yourself: <code>python3 verify.py</code></sub>
+<sub>Rendered from `chain/blocks.jsonl` at height 2835. Verify it yourself: <code>python3 verify.py</code></sub>
 
 <!-- ROFL:END -->
 
