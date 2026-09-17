@@ -17,24 +17,25 @@
 
 <!-- ROFL:BEGIN -->
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ledger-dark.svg?v=2733"><img src="assets/ledger-light.svg?v=2733" width="100%" alt="ROFL ledger, height 2733"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ledger-dark.svg?v=2734"><img src="assets/ledger-light.svg?v=2734" width="100%" alt="ROFL ledger, height 2734"></picture>
 
 | | |
 |---|---|
-| **height** | `2733` |
-| **tip** | `d61ee885c93b44909b107e2cc192d8d6afd815c309ad715f40dbd0d47c73e0bd` |
+| **height** | `2734` |
+| **tip** | `fd243201c765a9cb5edec16552604a9b0e511be27b285f92f674495305cbfea6` |
 | **difficulty** | `2,331.3`  (bits `0x1d01c1c6`) |
-| **chainwork** | `3,862,535,174,013,960,724,158,737,811,002,957,870,368,182,641,043,534` expected hashes |
-| **supply** | `20997.46093564 ROFL` in `2734` unspent outputs |
+| **chainwork** | `3,862,535,174,013,960,724,158,737,811,002,957,870,368,185,085,633,489` expected hashes |
+| **supply** | `20997.46703915 ROFL` in `2735` unspent outputs |
 | **next reward** | `0.00610351 ROFL` |
-| **next retarget** | in `2` block(s) |
-| **next halving** | in `206` block(s) |
-| **transactions** | `2736` |
+| **next retarget** | in `1` block(s) |
+| **next halving** | in `205` block(s) |
+| **transactions** | `2737` |
 
 ### Recent blocks
 
 | # | hash | miner | message | txs | reward | mined |
 |--:|---|---|---|--:|--:|---|
+| `2734` | `fd243201c765a9cb5ede…` | [@b81913221-ai](https://github.com/b81913221-ai) | `gm` | `1` | `0.00610351` | 2026-09-17 03:27 UTC |
 | `2733` | `d61ee885c93b44909b10…` | [@ywltby](https://github.com/ywltby) | `现在拿了世界冠军还在骂我，那拿了世界冠军有什么用呢？` | `1` | `0.00610351` | 2026-09-17 03:06 UTC |
 | `2732` | `4103ebcb3925feef2d19…` | [@Aitensa](https://github.com/Aitensa) | `gm from Aitensa` | `1` | `0.00610351` | 2026-09-17 02:52 UTC |
 | `2731` | `19f82ce958409fd123fa…` | [@ywltby](https://github.com/ywltby) | `不要小瞧EDG所有人的羁绊啊。` | `1` | `0.00610351` | 2026-09-17 02:42 UTC |
@@ -44,7 +45,6 @@
 | `2727` | `45964ff63f0dd1a79622…` | [@hbzhong](https://github.com/hbzhong) | `不急于宣告胜利，只相信验证后的答案。` | `1` | `0.01220703` | 2026-09-17 02:15 UTC |
 | `2726` | `367ab438ec1f47ffd84c…` | [@ywltby](https://github.com/ywltby) | `以前说拿了世界冠军就不骂我了，` | `1` | `0.01220703` | 2026-09-17 01:56 UTC |
 | `2725` | `6a442051165070d7fa64…` | [@hbzhong](https://github.com/hbzhong) | `让每一次计算，都成为向前的一小步。` | `1` | `0.01220703` | 2026-09-17 01:55 UTC |
-| `2724` | `111667f5ee98faea12e9…` | [@ywltby](https://github.com/ywltby) | `流水的天才，铁打的ZmjjKK。` | `1` | `0.01220703` | 2026-09-17 01:35 UTC |
 
 ### Miners
 
@@ -96,6 +96,7 @@ _Find your own name here once you have run `python3 wallet.py identity`._
 | [@hbzhong](https://github.com/hbzhong) | `rofl1q722t3c2emfk7utwz4y09xwxs0670kknthwuler` | `1.90429668 ROFL` |
 | _unclaimed_ | `rofl1qyk9qfjwgth2dfazpx9msskj3sswln76x0x9hqa` | `0.70190426 ROFL` |
 | [@bg6qcn](https://github.com/bg6qcn) | `rofl1qvz2auqlgxzgrhhx4x5q6cwrw3723699y6f2a7z` | `0.04882812 ROFL` |
+| _unclaimed_ | `rofl1qyj5rcsu0wazjesvrve9utmvty4t8p0n9ulsd2f` | `0.00610351 ROFL` |
 
 ### Recent transfers
 
@@ -104,7 +105,7 @@ _Find your own name here once you have run `python3 wallet.py identity`._
 | `1729` | [@iamgd67](https://github.com/iamgd67) | [@ywltby](https://github.com/ywltby) | `0.01000000` | gm |
 | `11` | `rofl1qhkhmy848s0…` | `rofl1q3jwm3gz2s9…` | `100.00000000` | gm @notram0verflow |
 
-<sub>Rendered from `chain/blocks.jsonl` at height 2733. Verify it yourself: <code>python3 verify.py</code></sub>
+<sub>Rendered from `chain/blocks.jsonl` at height 2734. Verify it yourself: <code>python3 verify.py</code></sub>
 
 <!-- ROFL:END -->
 
