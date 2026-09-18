@@ -17,24 +17,25 @@
 
 <!-- ROFL:BEGIN -->
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ledger-dark.svg?v=2898"><img src="assets/ledger-light.svg?v=2898" width="100%" alt="ROFL ledger, height 2898"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ledger-dark.svg?v=2899"><img src="assets/ledger-light.svg?v=2899" width="100%" alt="ROFL ledger, height 2899"></picture>
 
 | | |
 |---|---|
-| **height** | `2898` |
-| **tip** | `b6ea040e85be95f3406d7605c1f6df1581f87c129ee7350bdb2e51ffde2ccd6d` |
+| **height** | `2899` |
+| **tip** | `03874359614c20e7a1652c5c92181e23a1f2a7bd2835c887f22f5df492e00954` |
 | **difficulty** | `725.6`  (bits `0x1d05a526`) |
-| **chainwork** | `3,862,535,174,013,960,724,158,737,811,002,957,870,368,464,772,026,956` expected hashes |
-| **supply** | `20998.46801479 ROFL` in `2899` unspent outputs |
+| **chainwork** | `3,862,535,174,013,960,724,158,737,811,002,957,870,368,465,532,856,500` expected hashes |
+| **supply** | `20998.47411830 ROFL` in `2900` unspent outputs |
 | **next reward** | `0.00610351 ROFL` |
-| **next retarget** | in `13` block(s) |
-| **next halving** | in `41` block(s) |
-| **transactions** | `2901` |
+| **next retarget** | in `12` block(s) |
+| **next halving** | in `40` block(s) |
+| **transactions** | `2902` |
 
 ### Recent blocks
 
 | # | hash | miner | message | txs | reward | mined |
 |--:|---|---|---|--:|--:|---|
+| `2899` | `03874359614c20e7a165…` | [@yhye994](https://github.com/yhye994) | `gm from RTX3070` | `1` | `0.00610351` | 2026-09-18 10:49 UTC |
 | `2898` | `b6ea040e85be95f3406d…` | [@sd5884703](https://github.com/sd5884703) | `社会实验·连续挖矿` | `1` | `0.00610351` | 2026-09-18 10:29 UTC |
 | `2897` | `1c6f8ac5e9244c7997d6…` | [@hbzhong](https://github.com/hbzhong) | `看似在等，其实已经偷偷写下一题。` | `1` | `0.00610351` | 2026-09-18 09:55 UTC |
 | `2896` | `fdfdebf56a7f980dd58f…` | [@hbzhong](https://github.com/hbzhong) | `数学不会骗人，但它会让我加班。` | `1` | `0.00610351` | 2026-09-18 09:40 UTC |
@@ -44,13 +45,12 @@
 | `2892` | `6c861437700ff4754111…` | [@hbzhong](https://github.com/hbzhong) | `风扇一响，黄金万两？先过验证。` | `1` | `0.00610351` | 2026-09-18 08:52 UTC |
 | `2891` | `ec445bdee649e63e493c…` | [@hbzhong](https://github.com/hbzhong) | `今天的运气，正在后台编译。` | `1` | `0.00610351` | 2026-09-18 08:38 UTC |
 | `2890` | `4815f5ed57b28cc2f4a0…` | [@hbzhong](https://github.com/hbzhong) | `区块可以迟到，快乐不能缺席。` | `1` | `0.00610351` | 2026-09-18 08:25 UTC |
-| `2889` | `16418c4d93e676011d76…` | [@hbzhong](https://github.com/hbzhong) | `这不是发热，这是梦想在燃烧。` | `1` | `0.00610351` | 2026-09-18 08:11 UTC |
 
 ### Miners
 
 | miner | blocks | share |
 |---|--:|--:|
-| [@ywltby](https://github.com/ywltby) | `1109` | `38.3%` |
+| [@ywltby](https://github.com/ywltby) | `1109` | `38.2%` |
 | [@ksanjeev284](https://github.com/ksanjeev284) | `488` | `16.8%` |
 | [@americanvain](https://github.com/americanvain) | `315` | `10.9%` |
 | [@hbzhong](https://github.com/hbzhong) | `167` | `5.8%` |
@@ -98,7 +98,7 @@ _Find your own name here once you have run `python3 wallet.py identity`._
 | _unclaimed_ | `rofl1qyj5rcsu0wazjesvrve9utmvty4t8p0n9ulsd2f` | `0.16479477 ROFL` |
 | [@bg6qcn](https://github.com/bg6qcn) | `rofl1qvz2auqlgxzgrhhx4x5q6cwrw3723699y6f2a7z` | `0.04882812 ROFL` |
 | [@githubskylh](https://github.com/githubskylh) | `rofl1q4vdjjqjdeay87dmjmqu0hewv578k9uwkcf8qjf` | `0.01831053 ROFL` |
-| _unclaimed_ | `rofl1q4mmpdyvcsg54838jppvdm4plzpvt4kw9vqlprm` | `0.01220702 ROFL` |
+| _unclaimed_ | `rofl1q4mmpdyvcsg54838jppvdm4plzpvt4kw9vqlprm` | `0.01831053 ROFL` |
 
 ### Recent transfers
 
@@ -107,7 +107,7 @@ _Find your own name here once you have run `python3 wallet.py identity`._
 | `1729` | [@iamgd67](https://github.com/iamgd67) | [@ywltby](https://github.com/ywltby) | `0.01000000` | gm |
 | `11` | `rofl1qhkhmy848s0…` | `rofl1q3jwm3gz2s9…` | `100.00000000` | gm @notram0verflow |
 
-<sub>Rendered from `chain/blocks.jsonl` at height 2898. Verify it yourself: <code>python3 verify.py</code></sub>
+<sub>Rendered from `chain/blocks.jsonl` at height 2899. Verify it yourself: <code>python3 verify.py</code></sub>
 
 <!-- ROFL:END -->
 
